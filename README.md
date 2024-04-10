@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-https://github.com/ucsd-zhl135/Lab2_Starter
+https://ucsd-zhl135.github.io/Lab2_Starter/
